@@ -35,7 +35,7 @@
                             
                         </div>
                         <div>
-                            <label>dont have account? register <a href="register.php">here</a> </label>
+                            <label>dont have account? register <a href="registrasi.php">here</a> </label>
                         </div>
                 </form>
             </div>
